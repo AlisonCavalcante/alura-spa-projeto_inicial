@@ -202,6 +202,9 @@ footer i {
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
           flex-direction: column;
+  -webkit-box-pack: space-evely;
+      -ms-flex-pack: space-evely;
+       
 }
 
 #curiosidades h3 {
